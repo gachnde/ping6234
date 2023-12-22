@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Obrien",
+  "age": 18,
+  "address": {
+    "street": "Kauta Highway",
+    "city": "Aziladtu",
+    "state": "MI",
+    "zip": "53829"
+  },
+  "contact": {
+    "phone": "(478) 781-5553",
+    "servicePhone": "800598544"
+  },
+  "birthday": "1971-01-15T09:52:50.448Z",
+  "ip": "84.0.102.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Mihaken akedovob uftofoj jehgaeku ravtagi loof zolvovke panojne wiwic pinhi jofbu ildumruj temak rew fodim nek vamgo. Ce tiwe legsum go tigpoj himcenzap rosus awomu we hukbabhug jew mihimew cazhidka gow. Tisgeun juttuwas ankigde fodkieti habmej seruw roawkal lojulcu zajleb igivupeb nuh ho gisagje. Gaoz zufmi javu nin idi vul muguro oza timcahmu owo ne mepdar tegti nobmorap naka. Puupbe kuhbepzig aj ciir rasez vefuso fekne keojvaw go nu surbu zer ca nevvubso heeh has.",
+    "bio": "Lejit sigu dulomer ze vunapo keurra gapdebo egebav salug batow doses hok daspo fepfu. Zu vehaze gocmu zunwa um ju wif nujne jan gecvigsak vuga eti pirozezib bogmofus. Geahowe boje le deh benfumsa ezki vanjo cubaw feke toas zeftardo vewveze ungesuz dim."
+  },
+  "apiKey": "387d64b841877ed9fabaaa0b108716262748c69b21545659c2cfe3779eba5622",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
