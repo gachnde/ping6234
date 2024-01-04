@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Bates",
+  "age": 42,
+  "address": {
+    "street": "Fahi Glen",
+    "city": "Ebwagmam",
+    "state": "LA",
+    "zip": "83331"
+  },
+  "contact": {
+    "phone": "(713) 325-7837",
+    "servicePhone": "800795581"
+  },
+  "birthday": "1982-12-13T05:13:47.792Z",
+  "ip": "21.112.26.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Ro lokesve cirhew calaf ife kumalazij vi heg ahamef eckic va ce hun suse. Nuzicu umoudlof turilu akekohrug nuw isatavek bokud horde riuj nul daipsod owpac bum. Silkejuz jampajde mef ingolij idkaci ded pepujawas jumi hafes uf uwiacaudu ra sa idefuzer. Biwvehul vad zupgemiv rez rotnizhac cev ini pupov ugogaed wiwem nev boneleaj roroca kovuvew pidzev ku forifkaf.",
+    "bio": "Jogona da rerpimu fese gaw vusce el sigubib pih loz dawok fe ku iw avavazu. Rak lek ten vobodge kepges ca alo wom miuc cihutne bacogu ji. Kekzu kiwriz zawet kuvpite tu tunuriz bo cul buc fa wo di. Reluah wapaj tur osagite saro lombopraz ohahev li gaflip lon jaar siw lipo nerbaj nucice jobmak."
+  },
+  "apiKey": "01b00f02db9dae196180e6e22060a8118991a8668cde84dbe7a3c7c4a1b3c611",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
