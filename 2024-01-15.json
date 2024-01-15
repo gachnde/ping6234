@@ -1,0 +1,26 @@
+{
+  "name": "Marie Hunt",
+  "age": 45,
+  "address": {
+    "street": "Muhba Lane",
+    "city": "Nidedeho",
+    "state": "SC",
+    "zip": "41268"
+  },
+  "contact": {
+    "phone": "(617) 812-6907",
+    "servicePhone": "800284963"
+  },
+  "birthday": "2004-08-25T17:31:23.875Z",
+  "ip": "117.52.156.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuurulo zig go hepehoh nojic jewazu mabelmuh som remwo vaosi zuslov bawdupul dahka ubofget deplor gi du. Kad erbi askiwze vuwicoker harva rilure ce siubo otlepad nobnimep huzehip paw cu bophewupu acas wawit lifiv. Savadra umo otregom jitoefo fom oco azu ve rat bugacuw guzakije ecnukil venhuhum lago mu kalipi nuk inraza.",
+    "bio": "Pi ze vekuhmu fom ite uz ce rus bon lenojni moufina nu. Womitwa pidewi al low gizetke copu ege mef tipu ito mi zemop ubtan facik. Gogi siro gaz buwaki guve wenib ju ne pul mivagume bo povermof fugopo imki vo pupo pin. Icori tajovnu fudirpag etofa gidodawu vafbelab zi ge as hanuke apeda iwdif isehibah badum. Paw imico fokikom fef wiliuz fivme an daalo duwda lo lissus uzaanosi ifedejel."
+  },
+  "apiKey": "b3cd6bec864f27229bfc8d17777f65653bb763b1f4397e32482f43309eb18895",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
