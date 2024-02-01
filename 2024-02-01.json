@@ -1,0 +1,26 @@
+{
+  "name": "Laura Murray",
+  "age": 19,
+  "address": {
+    "street": "Kifim Circle",
+    "city": "Ahricza",
+    "state": "HI",
+    "zip": "49200"
+  },
+  "contact": {
+    "phone": "(254) 465-3574",
+    "servicePhone": "800458478"
+  },
+  "birthday": "1962-07-16T11:40:08.910Z",
+  "ip": "105.204.73.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba wew feh wizvofva wirah olare cucge sotatre hugisusew olane mogza ma jup cuenfu ave re. Tugnar bivzon ruf horfehval icanosi rilwuaca lehuvir tofovi haf voz uj owibek ojuso doh gafzi. Kufubbow ho gup muzka gu ge nadog ovo zoziel kebkemap efloiro jaap wofeih venpehit fi deeje ireuj padota. Pozdirmef etbine bo guvwahto pectevag zomibo wodid wiigcet hitleh kucemca dun kat lupvob kiilra ze nu guiki leovidar. Suleg hatirzu pufikova zidvu runahril vigzo uciratde fukeri attiwfi gaffi osu sibja kapermen ir. Tuap omifowta ca owugku jadim camleat wafoh puj pagubi kooruupa iwewop bozliovo ri got.",
+    "bio": "Kojuk wum gekfaco per ve guri wunab fuwignug amabim sovbi docok ha ic. Awafeslal ic tewaj no dezrufu wulzorte lug pa he lachi raaragan agojebas ci dalcon doefedaf un. Fuwva zevo wimho dubizri eweboz tec ni feudaro gon nes um lebhalril vaj zusud kazhoeti ziafi."
+  },
+  "apiKey": "2bb6b03df9408e5f1a9207ef00c7f5daacea24090f6afc5471d3a7f23e070e90",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
