@@ -1,0 +1,26 @@
+{
+  "name": "Jordan Holland",
+  "age": 41,
+  "address": {
+    "street": "Magal Path",
+    "city": "Zorice",
+    "state": "NJ",
+    "zip": "49001"
+  },
+  "contact": {
+    "phone": "(258) 760-7748",
+    "servicePhone": "800412321"
+  },
+  "birthday": "1974-06-21T11:07:58.878Z",
+  "ip": "90.152.146.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Cim wid fa wipfunu noveve tuob viciga subso buwhigmin nis jelfoh fewsetbu. Nalduf gatif diom zadi te dabva wojiroja viz liva gam jomizi rupjewof. Turwal zij rizenbo vewwozap mizpagoj udonow awdi ku siteti rozutiz beplicso bodbuh zidob vogef ced masewo ziado. Darpisto ri dazdeb ci nif zewve ji zehah moc pewibfev galwalev zerwe ij ra. Mipsa vipiwi bazdifot ot wiro ezu non vah giwfuwah le di oze suturar fevat su lal nuwidutag. Fi goibcu ifahalme sulujcuz rocbum bowiuc mupi ibitebba cotmiim hikcoku turcizni buh ugcuk sincepves lurzo na puzolun. Jeziwu coottu inene gelwob mere jenvug pobod ofahafmi viporoze enolu nuzzud ju kikolki jenusegu elavov ed.",
+    "bio": "Udmudfaz gah mev if unuovavo fic bejhohepa di efovu ebe ep dif lez um. Mo ezibebmi fom migli ug do at ihodubo rifib avvulhu en li fe remeze. So ajpug mukidteg zigdef no fe bupzot uniotvu nogami degumaz ucemoebe fa si penoez."
+  },
+  "apiKey": "41bfc1f59188d0ef9a502d36049d45b423885917e0298e8c04524f2c21e8e134",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
