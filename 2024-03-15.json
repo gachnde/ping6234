@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Garrett",
+  "age": 58,
+  "address": {
+    "street": "Tozaze Glen",
+    "city": "Mehoog",
+    "state": "MO",
+    "zip": "30421"
+  },
+  "contact": {
+    "phone": "(217) 774-7153",
+    "servicePhone": "800638552"
+  },
+  "birthday": "1969-07-08T17:18:38.633Z",
+  "ip": "21.245.9.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuvi ocuef lupod zezecdi kugaw etevoof nizunlu vokutke pamjo orpa funzavi fecez soflacwo uju amebeag gapfe ezek taosafum. Oc bipeiv ho ebofij hulcooz noz roh mor vo azoikoga gemi hokodepi sabu ru ugruh hu jekahe. Zo du zi se boib ba bo ciace tos dahves mebtewav vi kuugeab gu idnat. Lu te ivten virsituw ehaka won siepi terohas garaca vugkim jum nos tubi ikvaf fazelofe utrur coefle de. Agazuzkup lozarze fapheum owuvuh modemga fasusu do hovma kohicupa elih mi loneta fuble tukum jahhi iwzudol. Busruv verool hi ejobi hevudca hoac ofuju jurmiwsan wabpikud ev tiftig buroz. Ganuw bese inice muz ojofoek ti ruog ve faido papan ota hu nup dimeji tettup upru su.",
+    "bio": "Vouku haepeg uwiebadim sin ofejenkit zo sefe jam pu baroc po me ilela nevudla tev. Viho kofle canhagi ajne fek na govladcat seavi det po icuhafwat kiz morejhav vazfepor une. Jis fazal diiksed un roz tig wefof ipopum fizo kungos ovvoen wavnafuw. Merep dosko mujepoti wotuhuwet pilinusum ni otikoeje witmuor vani gele tiafez cevujlup tosiuwu ema luolimu. Ko karitnuj puswu hezwat arwa waopnac zucazhim ni kufi moj ceis hoigzu gohle touji pisu dajaveuvo juz vuzuktep."
+  },
+  "apiKey": "d73b009e0340ae956246da1a3e810086eb324aa8b71d47ac6df6e43b9288a774",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
