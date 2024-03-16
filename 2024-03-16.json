@@ -1,0 +1,26 @@
+{
+  "name": "Don Flowers",
+  "age": 56,
+  "address": {
+    "street": "Wadru Court",
+    "city": "Kirwirow",
+    "state": "RI",
+    "zip": "85611"
+  },
+  "contact": {
+    "phone": "(361) 838-9736",
+    "servicePhone": "800172516"
+  },
+  "birthday": "1978-08-23T12:47:56.627Z",
+  "ip": "187.5.25.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri lugev ermat re nivuj kietdah lusapa jikwisli fokro icu riez kucwe apvandu opse. Bodaldu oduede bufo pulmul lugcadah hahig mamuk juhrihjin pud borku buzif oggaj guk. Muwpeb isahil tec cesviaka ta gutelma edegol tumtote pevaw zomkug imopuvin mopcoru kavce ahonib zoface icacudtu.",
+    "bio": "Risun pu wopako durod jumu jac iselomu sigpajeso bu pe ikiekicof wuis is foc. Regvehi cuzribar hufaz pikdodre oha soruc datzicza ni gireuw befo iloebo ru ajavicu cis wapa. Torakku deah eghuv hoswarwes kidjaop wiwede mojel bemof juz gulbol lom garjohu vu. Ufulipat ce buksaaza ifgit gu awudaj wujarje hev lohawuuna hib ermiltof jepge jupubma biskoke. Zib hukzigti jefnulfez waczuiti ohi pefoma riso sufuj usezel jaj dosiz nok toj. Radtugzop cu furowil sa cafokbec mipnonoci cifgufo doplu jutza lanvamzuf ev sep gejzev azmamlig concihti mi igvagwev."
+  },
+  "apiKey": "5ca991bfc39f71519f41cbfef3d64f7e14dd29a6f7188afb98517319e249de9b",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
